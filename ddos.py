@@ -65,8 +65,8 @@ if __name__ == '__main__':
          os.system('cls' if os.name == 'nt' else 'clear')
          
          print('=========================================================================')
-         print('                SAMP EXPLOIT REMAKE BY JHONN')
+         print('                SAMP EXPLOIT REMAKE BY HuntingWoman')
          print('=========================================================================')
          print('\n\n')
-         print('[+] Paket Shoope Free Ongkir'.format(orgip))
+         print('[+] TOK TOK TOK Paketnya Qaqa, Kalo Ga Di Terima Lu Dosa'.format(orgip))
          pass
